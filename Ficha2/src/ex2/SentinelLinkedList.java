@@ -16,7 +16,6 @@ public class SentinelLinkedList<T> {
         this.head.setNext(this.tail);   // no início, head aponta logo para tail
     }
 
-
     public LinearNode<T> getHead() {
         return this.head;
     }
