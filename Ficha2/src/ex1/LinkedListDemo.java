@@ -1,4 +1,4 @@
-package Ficha2.src;
+package Ficha2.src.ex1;
 
 public class LinkedListDemo {
     public static void main(String[] args) {

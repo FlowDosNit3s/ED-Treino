@@ -1,4 +1,4 @@
-package Ficha2.src;
+package Ficha2.src.ex1;
 
 public class LinkedList<T> {
     private LinearNode<T> head;
