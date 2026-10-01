@@ -38,7 +38,7 @@ public class DoublyLinkedList<T> {
             newNode.setNext(head);
             head.setPrevious(newNode);
             head = newNode;
-        }
+        } 
     }
 
     public boolean removeFirst() {
