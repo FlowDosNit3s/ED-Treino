@@ -64,7 +64,6 @@ public class LinkedStack<T> implements StackADT<T> {
     @Override
     public String toString() {
         String s = "";
-
         LinearNode<T> p = this.head;
 
         while (p != null) {
